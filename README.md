@@ -1,1 +1,1 @@
-# restaurant-menu
+# restaurant
